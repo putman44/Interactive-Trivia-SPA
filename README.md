@@ -1,8 +1,8 @@
-# Open Trivia Database Quiz App
+# Interactive Trivia SPA
 
 ## Overview
 
-The **Trivia Quiz App** is a dynamic, interactive quiz platform built with **React**. Users can select a category and difficulty, answer multiple-choice questions, and view their results at the end. The app demonstrates proficiency with modern React features, including **hooks**, **useReducer for state management**, **contextual state lifting**,and **API integration**.
+The **Interactive Trivia SPA** is a dynamic, interactive quiz platform built with **React**. Users can select a category and difficulty, answer multiple-choice questions, and view their results at the end. The app demonstrates proficiency with modern React features, including **hooks**, **useReducer for state management**, **contextual state lifting**,and **API integration**.
 
 ---
 
@@ -23,8 +23,8 @@ The **Trivia Quiz App** is a dynamic, interactive quiz platform built with **Rea
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/putman44/Open-Trivia-Database-Quiz-App
-cd Open-Trivia-Database-Quiz-App
+git clone https://github.com/putman44/Interactive-Trivia-SPA
+cd Interactive-Trivia-SPA
 ```
 
 2. **Install dependencies:**
